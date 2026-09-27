@@ -27,7 +27,7 @@
 <div align="center">
 
 ### 🏠 Landing UI
-<img src="screenshots/landing-page.png" width="800" />
+<img src="screenshots/landing-demo.gif" width="800" />
 
 ### 📊 Comparison Dashboard
 <img src="screenshots/comparison-dashboard.png" width="800" />
