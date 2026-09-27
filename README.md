@@ -100,43 +100,43 @@ Atmos AI’s backend layers are uniquely architected to natively interface with 
 ```
 
 ┌─────────────────┐
-│  Google Sign In  │
+│  Google Sign In │
 │  (same account) │
 └────────┬────────┘
 │
 ▼
 ┌─────────────────┐
 │  JWT decoded    │
-│  googleId = "123"│
+│ googleId = "123"│
 
 └────────┬────────┘
 │
 ▼
 ┌─────────────────────────┐
 │  POST /api/auth/login   │
-│  body: { googleId: "123" } │
+│body: { googleId: "123" }│
 └────────┬────────────────┘
 │
 ▼
 ┌─────────────────────────────┐
-│  User.findOne({ googleId: "123" }) │
-│  → FOUND in MongoDB!         │
+│User.findOne({ googleId:"123"})│
+│  → FOUND in MongoDB!        │
 └────────┬────────────────────┘
 │
 ▼
 ┌─────────────────────────────┐
-│  existingUser = true          │
-│  isNewUser = false            │
-│  Returns onboardingComplete: true │
+│  existingUser = true        │
+│  isNewUser = false          │
+│Returns onboardingComplete: true │
 │  Returns carbonFootprint data   │
 │  Returns activeChallenges     │
 └────────┬────────────────────┘
 │
 ▼
 ┌─────────────────────────────┐
-│  Login.jsx receives response │
-│  isExistingUser = true        │
-│  navigate('/dashboard')       │  ← SKIPS ONBOARDING
+│  Login.jsx receives response│
+│  isExistingUser = true      │
+│  navigate('/dashboard')     │  ← SKIPS ONBOARDING
 └─────────────────────────────┘
 
 ```
