@@ -4,12 +4,15 @@
 
 ### *Your Personal AI-Powered Carbon Footprint Tracker*
 
+**🏆 Built for IBM Bob Hackathon 2.0**
+
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://atmos-aicarbon.vercel.app)
 [![React](https://img.shields.io/badge/Built%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Hackathon](https://img.shields.io/badge/Hackathon-IBM%20Bob%202.0-blue?style=for-the-badge)](https://github.com/SoumalyaSaha/ATMOS.AI)
 
 **🌐 [Live Demo → https://atmos-aicarbon.vercel.app](https://atmos-aicarbon.vercel.app/)**
 
