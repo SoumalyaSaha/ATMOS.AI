@@ -12,7 +12,7 @@
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Gemini](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Hackathon](https://img.shields.io/badge/Hackathon-IBM%20Bob%202.0-blue?style=for-the-badge)](https://github.com/SoumalyaSaha/ATMOS.AI)
+[![Hackathon](https://img.shields.io/badge/Hackathon-IBM%20Bob%202.0-blue?style=for-the-badge)](https://lablab.ai/ai-hackathons/ibm-bob-2-hackathon)
 
 **🌐 [Live Demo → https://atmos-aicarbon.vercel.app](https://atmos-aicarbon.vercel.app/)**
 
