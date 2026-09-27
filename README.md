@@ -26,9 +26,17 @@
 
 <div align="center">
 
-| 🏠 Landing UI | 📊 Comparison Dashboard | 🎯 Sustainability Challenges | 🏆 Community Rankings |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/landing-page.png" width="220" /> | <img src="screenshots/comparison-dashboard.png" width="220" /> | <img src="screenshots/sustainability-challenges.png" width="220" /> | <img src="screenshots/community-rankings.png" width="220" /> |
+### 🏠 Landing UI
+<img src="screenshots/landing-page.png" width="800" />
+
+### 📊 Comparison Dashboard
+<img src="screenshots/comparison-dashboard.png" width="800" />
+
+### 🎯 Sustainability Challenges
+<img src="screenshots/sustainability-challenges.png" width="800" />
+
+### 🏆 Community Rankings
+<img src="screenshots/community-rankings.png" width="800" />
 
 </div>
 
